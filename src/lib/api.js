@@ -41,7 +41,6 @@ export async function homePagePostsQuery(){
                     date
                     uri
                     title
-                    commentCount
                     excerpt
                     categories {
                       nodes {
